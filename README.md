@@ -8,8 +8,8 @@ The Flight_SW directory contains all the required code to build and deploy the f
 
 ### How do I get set up? ###
 
-This software is written with CodeWarrior for MCUs (Special Edition). It is targeting a custom board designed by Jon with the MKL16Z.
+This software is written with CodeWarrior for MCUs (Special Edition). It is targeting a custom board with the MKL16Z.
 In order to program the board (not just debug it) you must go under Project->Properties->C/C++ Build->Settings->Librarian and change Model to ewl.
 
 ### Where can I find more details about the project? ###
-Refer to the Critical Design Review (CDR) document.
+Refer to the Critical Design Review (CDR) document: https://github.com/AlokD123/CanSat-Project_SW/blob/master/Cansat2015_1001_CDR_v01.pdf
