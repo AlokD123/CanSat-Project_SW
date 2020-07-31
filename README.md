@@ -1,6 +1,6 @@
 # README #
 
-This is the flight software for the Carleton University CanSat team, primarily for the 2014-2015 competition. Full details about CanSat may be found [here](http://www.cansatcompetition.com/). 
+This is the flight software for the Carleton University CanSat team, primarily for the 2014-2015 competition. Full details about CanSat may be found [here](http://www.cansatcompetition.com/). Note that the contents of this repository were migrated from a private Bitbucket repository which was used at the time of the competition, so author attributions are shown at the tops of files in lieu of a commit history.
 
 ### What is this repository for? ###
 
@@ -15,3 +15,7 @@ In order to program the board in that IDE (not just debug it) you must go under 
 Refer to the Critical Design Review (CDR) document: https://github.com/AlokD123/CanSat-Project_SW/blob/master/Cansat2015_1001_CDR_v01.pdf
 
 For brevity, two concept images are shown below. The top image is the Concept of Operations for the competition. The bottom image is a block diagram of the can-sized satellite's electronics.
+
+![Concept of Operations](/images/CanSat_Concept_of_Operations.png)
+
+![Electronics block diagram](/images/CanSat_electronics_block_diagram.png)
