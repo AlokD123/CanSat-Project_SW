@@ -1,6 +1,6 @@
 # README #
 
-This is the flight software for the Carleton University CanSat team, primarily for the 2014-2015 competition. Full details about CanSat may be found [here](http://www.cansatcompetition.com/). Note that the contents of this repository were migrated from a private Bitbucket repository which was used at the time of the competition, so author attributions are shown at the tops of files in lieu of a commit history.
+This is the flight software for the Carleton University CanSat team, primarily for the 2015 competition. Full details about the Int'l CanSat Competition may be found [here](http://www.cansatcompetition.com/). Note that the contents of this repository were migrated from a private Bitbucket repository which was used at the time of the competition, so author attributions are shown at the tops of files in lieu of a commit history.
 
 ### What is this repository for? ###
 
